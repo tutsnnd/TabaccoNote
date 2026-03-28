@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "49b3e54e0984d413",
+    "type": "split",
+    "children": [
+      {
+        "id": "87fda2839ee87c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "162ad672389b3616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "资料分析/GDP计算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GDP计算"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa328a9744b78392",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e34c093b827975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb5edf2d87bf5ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1126f2e3e3724c47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2dc93765f18d3469",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d80306046cc307cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e09903eeeec0b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae4a7a4e2acf562b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "资料分析/GDP计算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "GDP计算 的反向链接列表"
+            }
+          },
+          {
+            "id": "7f73100915970708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "资料分析/GDP计算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "GDP计算 的出链列表"
+            }
+          },
+          {
+            "id": "2e9fc51721c0b5e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c371ca59d53f4c48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8eb04d5784a8c88c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "资料分析/GDP计算.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "GDP计算 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "162ad672389b3616",
+  "lastOpenFiles": [
+    "资料分析/现期量计算.md",
+    "资料分析/两期比重.md",
+    "资料分析/基期量计算.md",
+    "数字推理/做题思路总结.md",
+    "未命名 5.base",
+    "未命名 4.base",
+    "未命名 3.base",
+    "未命名 1.md",
+    "4689441f5a0ad8fc0cf42d93fc966cf7.png",
+    "未命名.md",
+    "89f4be8afcdb44ab8f261848b019fa55.jpg",
+    "2bcee9b397f38ce4f9df253e6d30c80d.jpg",
+    "资料分析/间隔现期量.md"
+  ]
+}
